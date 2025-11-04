@@ -1,0 +1,12 @@
+.boton-redondo {
+
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  border: white;
+  font-size: 50px;
+  position: fixed;
+  bottom: 300px;    
+  right: 800px;  
+  
+}
